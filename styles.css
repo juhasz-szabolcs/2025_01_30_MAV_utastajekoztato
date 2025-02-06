@@ -14,3 +14,11 @@ table {
 th {
     background-color: rgb(0, 0, 0);
 }
+
+#keses{
+    background-color: red;
+}
+
+.paratlan_sor {
+    background-color: rgb(129, 188, 40);
+}
