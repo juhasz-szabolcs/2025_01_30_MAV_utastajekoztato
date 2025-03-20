@@ -60,7 +60,7 @@ table {
 ```
 
 ### 🔧 Fejlesztési lehetőségek
-- [x] 🔄 Dinamikus adatbetöltés API-n keresztül
+- [ ] 🔄 Dinamikus adatbetöltés API-n keresztül
 - [ ] 🔍 Keresési és szűrési lehetőségek
 - [x] 📱 Reszponzív megjelenítés mobileszközökre
 
